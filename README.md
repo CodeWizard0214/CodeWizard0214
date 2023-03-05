@@ -76,12 +76,12 @@
   </h2>
 
   <div align="center"> 
-    <a href="mailto:codingwizard0831@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="40" /></a>
+    <a href="mailto:goldvitamin0214@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="40" /></a>
     &nbsp;&nbsp;
-    <a href="https://join.skype.com/invite/pRUCZKE56reb" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="40" /></a>
+    <a href="https://join.skype.com/invite/uEf4PojlhCAL" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="40" /></a>
     &nbsp;&nbsp;
-    <a href="https://t.me/codingwizard0831" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="40" /></a>
+    <a href="https://t.me/VitaminDev" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="40" /></a>
     &nbsp;&nbsp;
-    <a href="https://discord.gg/NPDvxBMQ" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/discord.png"  width="40" /></a>
+    <a href="https://discord.gg/Sz9jSCzz" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/discord.png"  width="40" /></a>
   </div>
 </div>"# Vitamin-C-C" 
