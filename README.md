@@ -1,7 +1,6 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
     Senior Full Stack Developer
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
 <p align="center">
@@ -20,13 +19,7 @@
     I am keen on writing clean and reusable code using best practices.
 </p>
 
-<h3>🏆 Github Profile Trophy</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harrypotter0831&column=7&theme=onedark"/>
-</p>
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=harrypotter0831&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
-</p>
+
 
 ## Skills
 
