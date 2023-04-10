@@ -4,14 +4,6 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20enthusiastic%20and%20Results-driven%20Senior%20Web3%20Engineer;%2B6%20years%20of%20hands-on%20experience;&center=true&width=800&height=45">
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/harrypotter0831/HarryPotter0831/main/developing3.jpg" />
-</p>
-
-<p align="center">
     I am ambitious and driven. I thrive on challenge and constantly set goals for myself, so I have something to strive towards.
     My primary focus is on Web and Blockchain development and I am interested in mobile development.
     I have been working for the last 6 years as a full-stack engineer.
