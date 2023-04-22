@@ -1,28 +1,15 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-    Senior Full Stack Developer
+<h1 align="">
+Hello, I'm Jeff
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-<p align="center">
+<p align="">
     I am ambitious and driven. I thrive on challenge and constantly set goals for myself, so I have something to strive towards.
     My primary focus is on Web and Blockchain development and I am interested in mobile development.
     I have been working for the last 6 years as a full-stack engineer.
     What's special about me is that I have a good algorithm in backend development and I have a natural artistic sense, so I come up with good ideas in frontend development and improve the provided design.
     I am keen on writing clean and reusable code using best practices.
 </p>
-
-
-
-## Skills
-
-- 🎉 Frontend : React,Next,Vue,Nuxt,Angular,Svelte,SolidJS,Jquery,Bootstrap,TailwindCSS,Material UI,ChakraUI,React Native,Ionic
-- 🩺 Backend : Node, CI, Laravel, Django, Express, Spring Boot, Ruby on Rails, Nest
-- 🧩 Database : MySQL, PostgreSQL, MongoDB, SQLite
-- ⛓️ Blockchain: Solidity, Rust, Smart contract, Web3/Ethers.js, NFT Marketplace/Auction, Launchpad/DAO/ICO/IDO platforms, CEX/DEX/Defi, Crypto wallets/Trading Apps
-- 💬 Language : HTML, CSS, Javascript, Typescript, C, C++, C#, Ruby, Python, PHP, Solidity, Rust
-- 📫 Interesting : Unity, D3, AI
-
 
 <div align="center">
   <h2>
