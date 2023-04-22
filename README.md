@@ -4,11 +4,21 @@ Hello, I'm Jeff
 </h1>
 
 <p align="">
-    I am ambitious and driven. I thrive on challenge and constantly set goals for myself, so I have something to strive towards.
-    My primary focus is on Web and Blockchain development and I am interested in mobile development.
-    I have been working for the last 6 years as a full-stack engineer.
-    What's special about me is that I have a good algorithm in backend development and I have a natural artistic sense, so I come up with good ideas in frontend development and improve the provided design.
-    I am keen on writing clean and reusable code using best practices.
+    Hi, Thanks for visiting my profile!
+
+I am a passionate Full-Stack Developer that specializes in Javascript frameworks including React, Vue.js, Next.js, Nuxt.js, Angular, Node.js, Nest.js and so on.
+
+I have commercial experience in software development and have done many attractive and impressive projects.
+
+I am an excellent problem solver and fast developer and love clean and sharp code.
+
+I have experience from several programme languages to frameworks on web and mobile development.
+
+And I have interesting in Web3 technologies.
+
+Don't hesitate to work with me for successful projects.
+
+Your success is my success!!!
 </p>
 
 <div align="center">
