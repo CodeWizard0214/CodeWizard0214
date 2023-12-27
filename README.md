@@ -12,4 +12,3 @@ And I have interesting in Web3 technologies.
 Don't hesitate to work with me for successful projects.
 Your success is my success!!!
 </p>
-<a href = "https://v3-portfolio-chi.vercel.app" target="_blank" align="center">This is my portfolio</a>
